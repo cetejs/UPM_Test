@@ -8,4 +8,10 @@ internal static class UPMTestEditor
     {
         Debug.Log("UPM Test Editor");
     }
+
+    [MenuItem("UMP/Test2")]
+    internal static void Test2()
+    {
+        Debug.Log("UPM Test Editor");
+    }
 }
