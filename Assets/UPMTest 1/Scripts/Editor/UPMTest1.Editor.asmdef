@@ -1,0 +1,18 @@
+{
+    "name": "UPMTest1.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:8d77fb515a6f5534197e510c231cb0ba"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
